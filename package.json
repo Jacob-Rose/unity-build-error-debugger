@@ -1,5 +1,5 @@
 {
-  "name": "info.jakerose.unitybuilddebugger",
+  "name": "com.jakerose.unitybuilddebugger",
   "version": "0.75",
   "displayName": "UnityBuildDebugger",
   "description": "Debug Log Files with a familiar and easy to use log file reader/analyser",
