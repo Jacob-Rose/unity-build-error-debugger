@@ -1,11 +1,12 @@
 {
   "name": "com.jakerose.unitybuilddebugger",
-  "version": "0.75",
   "displayName": "UnityBuildDebugger",
+  "version": "0.5.1",
   "description": "Debug Log Files with a familiar and easy to use log file reader/analyser",
   "unity": "2019.4",
   "author": {
     "name": "Jake Rose",
     "url": "https://jakerose.info"
-  } 
+  },
+  "category": "Unity"
 }
